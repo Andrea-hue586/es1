@@ -1,1 +1,1 @@
-import scipy.
+import scipy ramo_1.
