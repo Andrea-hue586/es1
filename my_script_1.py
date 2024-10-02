@@ -1,1 +1,1 @@
-import scipy ramo_1.
+import healpy and matplotlib.
